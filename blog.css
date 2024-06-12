@@ -8,6 +8,10 @@
   .blog-header-logo{
     font-size: 1.25rem;
 }
+  @media (max-width: 490px){
+  .blog-header-logo{
+    font-size: 1rem;
+}
 
 .blog-header-logo:hover {
   text-decoration: none;
